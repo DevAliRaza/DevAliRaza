@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Raza
-- 👀 I’m interested in anything new in Tech
-- 🌱 I’m currently learning Next JS
-- 💞️ I’m looking to collaborate on web related projects
+-  I’m interested in anything new in Tech
+-  I’m currently learning Next JS
+-  I’m looking to collaborate on web related projects
 
 
 <!---
